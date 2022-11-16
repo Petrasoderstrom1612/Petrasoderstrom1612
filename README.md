@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming top notch front end developer<br>👯 I’m looking to collaborate on projects and learn from each other's knowledge<br>🌱 I’m working with HTML, CSS, JS, React, Redux and NODE.JS<br>💬 Ask me about anything<br>⚡ Fun fact I have 4 cats and play floorball
+🔭 I’m currently working on becoming top notch front end developer<br>👯 I’m looking to collaborate on projects and learn from each other's knowledge<br>🌱 I’m working with HTML, CSS, JS, React, Redux and Node.js<br>💬 Ask me about anything<br>⚡ Fun fact I have 4 cats and play floorball and love prosecco
 
 
 ## 🌐 Socials:
